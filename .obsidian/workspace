@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "6726ec32b6f9f23f",
+    "type": "split",
+    "children": [
+      {
+        "id": "101d8e3af979f11e",
+        "type": "leaf",
+        "dimension": 54.735883424408016,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "econ/lection1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2fdf007df2b80b85",
+        "type": "leaf",
+        "dimension": 45.264116575591984,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "econ/lection1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "543bd9a2f4775092",
+    "type": "split",
+    "children": [
+      {
+        "id": "40fc3e601d824499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23e292f5d20cb79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "093cd575feb674f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "aae9d26f31516b58",
+    "type": "split",
+    "children": [
+      {
+        "id": "d522be33013320b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46fcfe85acbbbce4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "econ/lection1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "101d8e3af979f11e",
+  "lastOpenFiles": [
+    "econ/lection1.md"
+  ]
+}
