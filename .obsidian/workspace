@@ -6,23 +6,21 @@
       {
         "id": "101d8e3af979f11e",
         "type": "leaf",
-        "dimension": 54.735883424408016,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "econ/lection1.md",
+            "file": "trpo/lection1.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "2fdf007df2b80b85",
+        "id": "abd57f4479d27a21",
         "type": "leaf",
-        "dimension": 45.264116575591984,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "econ/lection1.md",
+            "file": "trpo/lection1.md",
             "mode": "preview"
           }
         }
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "econ/lection1.md",
+                "file": "trpo/lection1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +99,13 @@
   },
   "active": "101d8e3af979f11e",
   "lastOpenFiles": [
+    "trpo/lection1.md",
+    "Pasted image 20210907122649.png",
+    "trpo/README.md",
+    "Pasted image 20210907122650.png",
+    "Pasted image 20210907122657.png",
+    "Untitled.md",
+    "pravo/README.md",
     "econ/lection1.md"
   ]
 }
