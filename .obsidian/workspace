@@ -4,30 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "2538a616a03e82d0",
+        "id": "01d863ac95392fb2",
         "type": "leaf",
-        "dimension": 49.559859154929576,
         "state": {
           "type": "markdown",
           "state": {
             "file": "econ/lection5.md",
             "mode": "source"
           }
-        },
-        "group": "623a4013f249ebf8"
+        }
       },
       {
-        "id": "01d863ac95392fb2",
+        "id": "f6bdaececff1f7f2",
         "type": "leaf",
-        "dimension": 50.440140845070424,
         "state": {
           "type": "markdown",
           "state": {
             "file": "econ/lection5.md",
             "mode": "preview"
           }
-        },
-        "group": "623a4013f249ebf8"
+        }
       }
     ],
     "direction": "vertical"
@@ -101,9 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2538a616a03e82d0",
+  "active": "01d863ac95392fb2",
   "lastOpenFiles": [
     "econ/lection5.md",
+    "Untitled.md",
     "econ/Untitled.md",
     "econ/lection4.md",
     "trpo/lection4.md",
@@ -111,7 +108,6 @@
     "trpo/Untitled.md",
     "econ/lection3.md",
     "infsys/lection6.md",
-    "infsys/lection5.md",
-    "infsys/Untitled.md"
+    "infsys/lection5.md"
   ]
 }
