@@ -6,10 +6,11 @@
       {
         "id": "20de9d4ff366d5c4",
         "type": "leaf",
+        "dimension": 49.735915492957744,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "trpo/lection6.md",
+            "file": "infsys/lection7.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "714575cfaed861e5",
         "type": "leaf",
+        "dimension": 50.26408450704225,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "trpo/lection6.md",
+            "file": "infsys/lection7.md",
             "mode": "preview"
           }
         },
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trpo/lection6.md",
+                "file": "infsys/lection7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,8 @@
   },
   "active": "20de9d4ff366d5c4",
   "lastOpenFiles": [
+    "infsys/lection7.md",
+    "infsys/lection6.md",
     "trpo/lection6.md",
     "trpo/lection1.md",
     "trpo/lection5.md",
@@ -108,8 +112,6 @@
     "trpo/lection4.md",
     "econ/lection5.md",
     "Untitled.md",
-    "econ/Untitled.md",
-    "econ/lection4.md",
-    "econ/lection3.md"
+    "econ/Untitled.md"
   ]
 }
