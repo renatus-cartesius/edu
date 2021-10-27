@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "infsys/lection7.md",
+            "file": "trpo/lection6.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "714575cfaed861e5",
         "type": "leaf",
-        "dimension": 50.26408450704225,
+        "dimension": 50.264084507042256,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "infsys/lection7.md",
+            "file": "trpo/lection6.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infsys/lection7.md",
+                "file": "trpo/lection6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "20de9d4ff366d5c4",
   "lastOpenFiles": [
+    "trpo/lection6.md",
+    "instr/lection2.md",
     "infsys/lection7.md",
     "infsys/lection6.md",
-    "trpo/lection6.md",
     "trpo/lection1.md",
     "trpo/lection5.md",
     "trpo/README.md",
     "trpo/lection4.md",
     "econ/lection5.md",
-    "Untitled.md",
-    "econ/Untitled.md"
+    "Untitled.md"
   ]
 }
