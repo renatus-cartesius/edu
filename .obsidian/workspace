@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "trpo/lection6.md",
+            "file": "instr/lection3.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "trpo/lection6.md",
+            "file": "instr/lection3.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trpo/lection6.md",
+                "file": "instr/lection3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20de9d4ff366d5c4",
+  "active": "714575cfaed861e5",
   "lastOpenFiles": [
+    "instr/lection3.md",
     "trpo/lection6.md",
     "instr/lection2.md",
     "infsys/lection7.md",
@@ -111,7 +112,6 @@
     "trpo/lection5.md",
     "trpo/README.md",
     "trpo/lection4.md",
-    "econ/lection5.md",
-    "Untitled.md"
+    "econ/lection5.md"
   ]
 }
