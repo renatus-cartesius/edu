@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "20de9d4ff366d5c4",
+        "id": "714575cfaed861e5",
         "type": "leaf",
-        "dimension": 49.735915492957744,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "infsys/lection8.md",
+            "file": "econ/lection7.md",
             "mode": "source"
           }
         },
-        "group": "6b6726a4ce651506"
+        "group": "3caa4453cb75fe48"
       },
       {
-        "id": "714575cfaed861e5",
+        "id": "4b68cfb8b9ecd8fa",
         "type": "leaf",
-        "dimension": 50.264084507042256,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "infsys/lection8.md",
+            "file": "econ/lection7.md",
             "mode": "preview"
           }
         },
-        "group": "6b6726a4ce651506"
+        "group": "3caa4453cb75fe48"
       }
     ],
     "direction": "vertical"
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infsys/lection8.md",
+                "file": "econ/lection7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20de9d4ff366d5c4",
+  "active": "714575cfaed861e5",
   "lastOpenFiles": [
+    "econ/lection7.md",
+    "econ/lection6.md",
+    "econ/Untitled.md",
+    "infsys/lection10.md",
+    "infsys/lectoin9.md",
     "infsys/lection8.md",
-    "dokum/lection3.md",
-    "infsys/lection7.md",
-    "infsys/lection6.md",
-    "infsys/lection4.md",
-    "infsys/lection5.md",
-    "infsys/README.md",
-    "infsys/lection1.md",
-    "infsys/lection2.md",
-    "infsys/lection3.md"
+    "econ/lection4.md",
+    "econ/lection2.md",
+    "econ/lection1.md",
+    "econ/lection5.md"
   ]
 }
