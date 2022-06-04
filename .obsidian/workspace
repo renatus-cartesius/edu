@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "econ/lection7.md",
+            "file": "econ/lection1.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "econ/lection7.md",
+            "file": "econ/lection1.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "econ/lection7.md",
+                "file": "econ/lection1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "714575cfaed861e5",
   "lastOpenFiles": [
-    "econ/lection7.md",
+    "econ/lection1.md",
+    "econ/lection4.md",
+    "econ/lection5.md",
     "econ/lection6.md",
+    "econ/lection7.md",
     "econ/Untitled.md",
     "infsys/lection10.md",
     "infsys/lectoin9.md",
     "infsys/lection8.md",
-    "econ/lection4.md",
-    "econ/lection2.md",
-    "econ/lection1.md",
-    "econ/lection5.md"
+    "econ/lection2.md"
   ]
 }
